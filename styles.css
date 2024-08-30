@@ -1,14 +1,49 @@
 body {
     background-color:  #FFFFFF;
     font-family: "Roboto", sans-serif;
+    font-size: 16px;
 }
 
-.page-logo-tittle {
+.page-logo-title {
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.2;
     letter-spacing: 3%;
     color: #2E2F42;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+.page-menu-list a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+    text-decoration: none;
+    
+}
+
+.page-menu-list li {
+    list-style-type: none;
+}
+
+.page-menu-address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.4px;
+    letter-spacing: 2%;
+    text-decoration: none;
+}
+
+.page-menu-list a:hover {
+    color: #404BBF;
+}
+
+.page-menu-list a:focus{
+    color: #404BBF
+}
+
+.page-button {
+    cursor: pointer;
 }
