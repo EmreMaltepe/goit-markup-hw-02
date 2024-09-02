@@ -1,13 +1,13 @@
 body {
     background-color:  #FFFFFF;
     font-family: "Roboto", sans-serif;
-    font-size: 16px;
-}
+    font-size: 1em;
+    }
 
 .page-logo {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.3;
     letter-spacing: 3%;
     color: #2E2F42;
     text-decoration: none;
@@ -17,7 +17,7 @@ body {
 .page-menu-list a {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 2%;
     color: #2E2F42;
     text-decoration: none;
@@ -31,7 +31,7 @@ body {
 .page-menu-information {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.4;
+    line-height: 1.5;
     letter-spacing: 2%;
     text-decoration: none;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 .page-text main p{
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .page-picture img{
