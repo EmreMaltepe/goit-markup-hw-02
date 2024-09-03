@@ -7,7 +7,7 @@ body {
 .page-logo {
     font-weight: 500;
     font-size: 18px;
-    line-height: 1.3;
+    line-height: 1.3rem;
     letter-spacing: 3%;
     color: #2E2F42;
     text-decoration: none;
@@ -17,7 +17,7 @@ body {
 .page-menu-list a {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.5rem;
     letter-spacing: 2%;
     color: #2E2F42;
     text-decoration: none;
@@ -31,7 +31,7 @@ body {
 .page-menu-information {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.5rem;
     letter-spacing: 2%;
     text-decoration: none;
 }
@@ -46,10 +46,11 @@ body {
 
 .page-icon {
     cursor: pointer;
+    line-height: 1.5rem;
 }
 
 .page-text main p{
-    line-height: 1.5;
+    line-height: 3,75rem;
 }
 
 .page-picture img{
@@ -57,3 +58,42 @@ body {
     width: 240;
 }
 
+.page-picture h2 {
+    line-height: 2.5rem;
+}
+
+.page-picture li h3 {
+    line-height: 1.5rem;
+}
+
+.page-picture li p {
+    line-height: 1.5rem;
+}
+
+.page-part-two h2{
+    line-height: 1.5rem;
+}
+
+.page-part-two p{
+    line-height: 1.5rem;
+}
+
+.page-part-three h2 {
+    line-height: 2.5rem;
+}
+
+.page-part-three li h3 {
+    line-height: 1.5rem;
+}
+
+.page-part-three {
+    line-height: 1.5rem;
+}
+
+.page-last a {
+    line-height: 1.3rem;
+}
+
+.page-last p {
+    line-height: 1.5rem;
+}
